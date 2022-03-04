@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TNW | The heart of tech</title>
+</head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="telephone=no" name="format-detection">
+<meta content="unsafe-url" name="referrer">
+<meta content="The Next Web" name="apple-mobile-web-app-title">
+
+<link rel='preload' href='https://next.tnwcdn.com/assets/next/fonts/graphik-regular.woff2' as='font' type='font/woff2' crossorigin='anonymous'>
+<link rel='preload' href='https://next.tnwcdn.com/assets/next/fonts/graphik-regular-italic.woff2' as='font' type='font/woff2' crossorigin='anonymous'>
+<link rel='preload' href='https://next.tnwcdn.com/assets/next/fonts/graphik-medium.woff2' as='font' type='font/woff2' crossorigin='anonymous'>
+<link rel='preload' href='https://next.tnwcdn.com/assets/next/fonts/trump-soft-pro-bold.woff2' as='font' type='font/woff2' crossorigin='anonymous'>
+<link rel='preload' href='https://next.tnwcdn.com/assets/next/fonts/shentox-medium.woff2' as='font' type='font/woff2' crossorigin='anonymous'>
+<link rel='preload' href='https://next.tnwcdn.com/assets/next/fonts/tnw-avalon-bold.woff2' as='font' type='font/woff2' crossorigin='anonymous'>
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="We inform, inspire, and connect people who love tech" property="description" />
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="//next.tnwcdn.com/assets/img/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="//next.tnwcdn.com/assets/img/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="//next.tnwcdn.com/assets/img/favicon/favicon-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="//next.tnwcdn.com/assets/img/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="//next.tnwcdn.com/assets/img/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="//next.tnwcdn.com/assets/img/favicon/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="//next.tnwcdn.com/assets/img/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="shortcut icon" href="//next.tnwcdn.com/assets/img/favicon/favicon-16x16.png">
+<script src="//next.tnwcdn.com/assets/js/lib/modernizr-custom.js?68c4ef942d2886c165ed2e0e7c8228bed916c078" async></script>
+<script src="https://gdpr.privacymanager.io/1/stub.bundle.js" async></script>
+
+
+<body class="site-tnwNext " id="next-top">
+    <div id="fb-root"></div>
+
+    <nav class="c-nav has-level2" id="nav" role="navigation" style="top: 0;">
+        <div class="c-nav__level1">
+            <input class="c-nav__menuToggle js-menuToggleLevel" data-nav-level="1" id="nav-menuLevel1" name="" type="checkbox">
+            <label class="c-nav__levelLabel c-nav__levelLabel--1" for="nav-menuLevel1"></label>
+
+            <div class="navLabel_dt">
+                <a class="c-nav__logo" href="/" data-event-category="Article" data-event-action="Navigation bar" data-event-label="TNW Logo" name="TNW Logo" data-event-non-interaction="false">
+                    <svg preserveAspectRatio="xMidYMid meet" viewBox="0 0 66 16">
+                    <path d="M32.23993 5A6.00284 6.00284 0 0 1 34 9.24261V16h-6v-5.929a2.00249 2.00249 0 0 0-.58856-1.41424l-2.07239-2.07101A2.00315 2.00315 0 0 0 23.92346 6H22v10h-6V0h8.75189a6 6 0 0 1 4.24268 1.75739zM60 0v5.929a2.00245 2.00245 0 0 1-.58856 1.41418l-2.07385 2.071A1.99969 1.99969 0 0 1 55.9234 10h-2.88214A5.99166 5.99166 0 0 0 54 6.75732V0h-6v5.929a2.00245 2.00245 0 0 1-.58856 1.41418l-2.07385 2.071A1.99969 1.99969 0 0 1 43.9234 10H42V0h-6v16h8.75189a6.003 6.003 0 0 0 4.244-1.75739L51 12.23938V16h5.75189a6.003 6.003 0 0 0 4.244-1.75739l3.244-3.24267A6.00264 6.00264 0 0 0 66 6.75732V0zM0 6h4v10h6V6h4V0H0z"></path>
+                </svg>
+                </a>
+
+
+
+
+
+
+
+            </div>
+            <div class="c-nav__menuContainer c-nav__menuContainer--1" id="overlay__hook">
+                <ul class="c-nav__menu">
+
+
+
+
+
+
+
+
+
+                    <li class="c-nav__menuItem c-nav__menuItem--current">
+                        <a class="c-nav__menuLink" data-event-category="Navigation bar" data-event-action="News" data-event-label="/" data-event-non-interaction="false" href="/">
+                        News
+                    </a>
+                    </li>
+
+
+                    <li class="c-nav__menuItem has-menu">
+                        <a href="/events" class="c-nav__menuLink" data-event-category="Navigation bar" data-event-action="Events" data-event-label="/events" data-event-non-interaction="false">Events</a>
+
+                        <ul class="c-nav__submenu" role="menu">
+
+
+                            <li class="c-nav__submenuItem">
+                                <a class="c-nav__submenuLink" href="/conference" data-event-category="Navigation bar" data-event-action="TNW Conference 2022" data-event-label="/conference" data-event-non-interaction="false">
+                                    <span class="c-nav__submenuLinkTitle" data-event-category="Navigation bar" data-event-action="TNW Conference 2022" data-event-label="/conference" data-event-non-interaction="false">TNW Conference 2022</span>
+                                    <span class="c-nav__submenuLinkNote">June 16 &amp; 17, 2022</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" data-event-category="Navigation bar" data-event-action="Spaces" data-event-label="/spaces" data-event-non-interaction="false" href="/spaces">
+                        Spaces
+                    </a>
+                    </li>
+
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" data-event-category="Navigation bar" data-event-action="Programs" data-event-label="/programs" data-event-non-interaction="false" href="/programs">
+                        Programs
+                    </a>
+                    </li>
+                </ul>
+                <hr class="mobile_menu_divider " />
+                <ul class="c-nav__icons has-search">
+
+                    <li class="c-nav__iconsItem">
+                        <a href="/newsletters" data-event-category="Navigation bar" data-event-action="Newsletter" data-event-label="Newsletters top right - click" data-event-non-interaction="false">
+                            <span data-event-category="Navigation bar" data-event-action="Newsletters" data-event-label="/newsletters" data-event-non-interaction="false" class="c-nav__iconsItem--label">Newsletters</span>
+                        </a>
+                    </li>
+
+
+
+
+                    <li class="c-nav__iconsItem">
+                        <a href="/partnerships">
+                            <span data-event-category="Navigation bar" data-event-action="Partner with us" data-event-label="/partnerships" data-event-non-interaction="false" class="c-nav__iconsItem--label">Partner with us</span>
+                        </a>
+                    </li>
+                </ul>
+
+
+
+                <footer class="c-nav__footer">
+                    <ul class="c-nav__social">
+                        <li class="c-nav__socialItem">
+                            <a class="c-nav__socialLink" href="https://facebook.com/thenextweb" target="_blank" rel="noopener noreferrer" name="Facebook Social Link">
+                                <svg class="c-nav__socialIcon"><use xlink:href="/assets/next/img/icons.svg#facebook"></use></svg>
+                            </a>
+                        </li>
+                        <li class="c-nav__socialItem">
+                            <a class="c-nav__socialLink" href="https://www.instagram.com/thenextweb" target="_blank" rel="noopener noreferrer" name="Instagram Social Link">
+                                <svg class="c-nav__socialIcon"><use xlink:href="/assets/next/img/icons.svg#instagram"></use></svg>
+                            </a>
+                        </li>
+                        <li class="c-nav__socialItem">
+                            <a class="c-nav__socialLink" href="https://twitter.com/thenextweb" target="_blank" rel="noopener noreferrer" name="Twitter Social Link">
+                                <svg class="c-nav__socialIcon"><use xlink:href="/assets/next/img/icons.svg#twitter"></use></svg>
+                            </a>
+                        </li>
+                        <li class="c-nav__socialItem">
+                            <a class="c-nav__socialLink" href="https://youtube.com/user/thenextweb" target="_blank" rel="noopener noreferrer" name="Youtube Social Link">
+                                <svg class="c-nav__socialIcon"><use xlink:href="/assets/next/img/icons.svg#youtube"></use></svg>
+                            </a>
+                        </li>
+                        <li class="c-nav__socialItem">
+                            <a class="c-nav__socialLink" href="https://flipboard.com/@thenextweb" target="_blank" rel="noopener noreferrer" name="Flipboard Social Link">
+                                <svg class="c-nav__socialIcon"><use xlink:href="/assets/next/img/icons.svg#flipboard"></use></svg>
+                            </a>
+                        </li>
+                        <li class="c-nav__socialItem">
+                            <a class="c-nav__socialLink" href="/cdn-cgi/l/email-protection#680b07061c090b1c281c000d060d101c1f0d0a460b0705" name="Email Social Link">
+                                <svg class="c-nav__socialIcon"><use xlink:href="/assets/next/img/icons.svg#mail"></use></svg>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <ul class="c-nav__company">
+                        <li class="c-nav__companyItem">
+                            <a class="c-nav__companyLink" href="https://thenextweb.homerun.co/" target="_blank" rel="noopener noreferrer">Jobs</a>
+                        </li>
+                        <li class="c-nav__companyItem"><a class="c-nav__companyLink" href="/cdn-cgi/l/email-protection#60090e060f20140e174e030f">Contact</a></li>
+                    </ul>
+                </footer>
+
+            </div>
+        </div>
+        <div class="c-nav__level2 tnw news">
+            <input class="c-nav__menuToggle js-menuToggleLevel" data-nav-level="2" id="nav-menuLevel2" name="MenuToggle" type="checkbox">
+
+            <div class="c-nav__pwd">
+                <a class="c-nav__pwdLogo" href="/">
+                    <svg><use xlink:href="/assets/next/img/icons.svg#tnw"></use></svg>
+                </a>
+
+
+                <span class="c-nav__pwdSection">News</span>
+
+                <a class="c-nav__pwdSite" href="/" title="">
+                    <span class="sm:hidden" id="channelName_abbr"></span>
+                    <span class="max-sm:hidden xl:hidden"></span>
+                    <span class="max-xl:hidden" id="channelName_mob"></span>
+                </a>
+
+            </div>
+
+
+            <div class="c-nav__menuContainer c-nav__menuContainer--2">
+                <ul class="c-nav__menu">
+
+
+
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" href="/latest" data-event-category="Navigation bar" data-event-action="Latest" data-event-label="/latest" data-event-non-interaction="false">Latest</a>
+                    </li>
+
+
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" href="/plugged" data-event-category="Navigation bar" data-event-action="Gadgets &amp; apps" data-event-label="/plugged" data-event-non-interaction="false">Gadgets &amp; apps</a>
+                    </li>
+
+
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" href="/neural" data-event-category="Navigation bar" data-event-action="AI &amp; futurism" data-event-label="/neural" data-event-non-interaction="false">AI &amp; futurism</a>
+                    </li>
+
+
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" href="/shift" data-event-category="Navigation bar" data-event-action="EVs &amp; mobility" data-event-label="/shift" data-event-non-interaction="false">EVs &amp; mobility</a>
+                    </li>
+
+
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" href="/growth-quarters" data-event-category="Navigation bar" data-event-action="Startups &amp; growth" data-event-label="/growth-quarters" data-event-non-interaction="false">Startups &amp; growth</a>
+                    </li>
+
+
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" href="/hardfork" data-event-category="Navigation bar" data-event-action="Crypto &amp; fintech" data-event-label="/hardfork" data-event-non-interaction="false">Crypto &amp; fintech</a>
+                    </li>
+
+
+                    <li class="c-nav__menuItem">
+                        <a class="c-nav__menuLink" href="/house-of-talent" data-event-category="Navigation bar" data-event-action="Careers in tech" data-event-label="/house-of-talent" data-event-non-interaction="false">Careers in tech</a>
+                    </li>
+
+
+
+
+                    <li class="c-nav__menuItem has-menu">
+                        <a class="c-nav__menuLink">More</a>
+
+                        <ul class="c-nav__submenu">
+
+
+                            <li class="c-nav__submenuItem">
+                                <a class="c-nav__submenuLink" href="/future-of-finance">
+                                    <span class="c-nav__submenuLinkTitle" data-event-category="Navigation bar" data-event-action="Future of Finance" data-event-label="/future-of-finance" data-event-non-interaction="false">Future of Finance</span>
+                                </a>
+                            </li>
+
+
+                            <li class="c-nav__submenuItem">
+                                <a class="c-nav__submenuLink" href="/readme">
+                                    <span class="c-nav__submenuLinkTitle" data-event-category="Navigation bar" data-event-action="Read Me" data-event-label="/readme" data-event-non-interaction="false">Read Me</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <article class="c-showcase__article">
+            <div class="c-card c-card--visual">
+
+
+
+                <a class="c-card__image js-parallax o-media md:o-media--stretch" href="https://thenextweb.com/news/swifts-russia-ban-symbolic" data-event-category="Homepage" data-event-action="Top story" data-event-label="SWIFT’s Russia ban is symbolic — and that’s why it’s so important">
+                    <img alt="SWIFT’s Russia ban is symbolic — and that’s why it’s so important" class="c-card__imageImage js-parallaxLayer o-parallax__layer js-lazy" data-src="https://img-cdn.tnwcdn.com/image?fit=600%2C300&amp;url=https%3A%2F%2Fs3.amazonaws.com%2Fevents.tnw%2Fhardfork-2018%2Fuploads%2Fvisuals%2Fswift.jpeg&amp;signature=6f48e7cc5c4ae977bc6750d2b09a3ff7">
+
+                    <noscript>
+                        <img
+                            alt="SWIFT’s Russia ban is symbolic — and that’s why it’s so important"
+                            class="c-card__imageImage o-parallax__layer"
+                            src="https://img-cdn.tnwcdn.com/image?fit=600%2C300&amp;url=https%3A%2F%2Fs3.amazonaws.com%2Fevents.tnw%2Fhardfork-2018%2Fuploads%2Fvisuals%2Fswift.jpeg&amp;signature=6f48e7cc5c4ae977bc6750d2b09a3ff7">
+                    </noscript>
+                </a>
+                <header class="c-card__header">
+                    <h6 class="c-card__label">
+                        <a class="c-nextHeader_topic" href="/topic/money">
+                            UKRAINE-RUSSIA
+                        </a>
+                    </h6>
+                    <h3 class="c-card__heading"><a href="https://thenextweb.com/news/swifts-russia-ban-symbolic" data-event-category="Homepage" data-event-action="Top story" data-event-label="SWIFT’s Russia ban is symbolic — and that’s why it’s so important">SWIFT’s Russia ban is symbolic — and that’s why it’s so important</a></h3>
+                </header>
+            </div>
+        </article>
+        <article class="c-showcase__article">
+
+            <div class="c-card c-card--visual">
+                <a class="c-card__image js-parallax o-media md:o-media--stretch" data-event-category="Homepage" data-event-action="Top story" data-event-label="Join TNW Conference on June 16 & 17 in Amsterdam" data-event-non-interaction="false" href="https://thenextweb.com/conference/tickets">
+                    <img alt="Ad panel" class="c-card__imageImage js-parallaxLayer o-parallax__layer js-lazy" data-src="https://s3.amazonaws.com/events.tnw/hardfork-2018/uploads/visuals/home-header_advert-tnw2021-03.jpg">
+
+                    <noscript>
+                        <img
+                            alt="Ad panel"
+                            class="c-card__imageImage o-parallax__layer"
+                            src="https://s3.amazonaws.com/events.tnw/hardfork-2018/uploads/visuals/home-header_advert-tnw2021-03.jpg">
+                    </noscript>
+                </a>
+                <header class="c-card__header advertPane">
+                    <h2 class="c-card__heading adpanel">Discover what’s next in tech. Now. <br/><span>Join TNW Conference on June 16 &amp; 17 in Amsterdam</span></h2>
+                    <a class="c-button c-button--rounded text-white homeCTA" data-event-category="Homepage" data-event-action="Top story - CTA" data-event-label="TNW2022" href="https://thenextweb.com/conference/tickets" target="_blank" rel="noopener noreferrer">
+                        Get your tickets
+                    </a>
+                </header>
+            </div>
+        </article>
+</body>
+
+</html>
